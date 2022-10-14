@@ -49,19 +49,20 @@ For georeferencing the final 3D model, climbing anchors were surveyed by irradia
 
 <div align="center">
   <a href="https://github.com/cdviana/jd-garcia-quarry">
-    <img src="images/pedreiragarcia.jpg" alt="Quarry view" height="100">
+    <img src="images/pedreiragarcia.jpg" alt="Quarry view" height="150">
   </a>
-  <h3 align="center">Overview of the Jardim Garcia quarry wall.</h3>
+  <h4 align="center">Overview of the Jardim Garcia quarry wall.</h4>
 </div>
 
 Because of the dimensions of the outcrop, we developed a workflow to program autonomous RPA missions designed to acquire images of vertical surfaces with the desired parameters of distance to target and overlap, using the Litchi App. The layout of the flight lines and waypoints resulted in an image overlap greater than nine photos for almost all the wall area.
 
 <div align="center">
   <a href="https://github.com/cdviana/jd-garcia-quarry">
-    <img src="images/image-overlap.png" alt="Quarry view" height="100">
+    <img src="images/image-overlap.png" alt="Quarry view" height="150">
   </a>
-  <h3 align="center">Overview of image overlap on the processed DOM.</h3>
+  <h4 align="center">Overview of image overlap on the processed DOM.</h4>
 </div>
+
 
 ### Data
 
@@ -77,19 +78,17 @@ You can find the original image set at [Geonadir](https://geonadir.com/) and the
 
 * [![Metashape][Metashape.badge]][Metashape-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- PUBLICATIONS -->
 ## Publications
 
-This dataset was use on the following publications
+This dataset was use on the following publications:
 
-* Conference paper @ XIX Brazilian Symposium on Remote Sensing: [https://proceedings.science/sbsr-2019/papers/semi-automatic-uav-based-sfm-survey-of-vertical-surfaces](https://proceedings.science/sbsr-2019/papers/semi-automatic-uav-based-sfm-survey-of-vertical-surfaces) 
-* [Camila Duelis Viana](https://github.com/cdviana) PhD Thesis: [https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php)
+* Conference paper @XIX Brazilian Symposium on Remote Sensing : [https://proceedings.science/sbsr-2019/papers/semi-automatic-uav-based-sfm-survey-of-vertical-surfaces](https://proceedings.science/sbsr-2019/papers/semi-automatic-uav-based-sfm-survey-of-vertical-surfaces) 
+* Conference paper @14th International Congress on Rock Mechanics (ISRM) : [Rock Mechanics for Natural Resources and Infrastructure Development - Full Papers](https://www.routledge.com/Rock-Mechanics-for-Natural-Resources-and-Infrastructure-Development---Full/Fontoura-Rocca-Mendoza/p/book/9780367823177)
+* [Camila Duelis Viana](https://github.com/cdviana) PhD Thesis : [https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php](https://www.teses.usp.br/teses/disponiveis/44/44137/tde-18012022-122057/pt-br.php)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -98,7 +97,6 @@ This dataset was use on the following publications
 
 Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -109,7 +107,6 @@ SPAMLab - [@SPAMLab Site](https://spamlab.github.io/) - [@SPAMLab Instagam](http
 
 Project Link: [https://spamlab.github.io/jd-garcia-quarry](https://spamlab.github.io/jd-garcia-quarry)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
