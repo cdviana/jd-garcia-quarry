@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cdviana/jd-garcia-quarry">
-    <img src="images/digital-outcrop-model.png" alt="Outcrop Model" height="200">
+    <img src="images/digital-outcrop-model.png" alt="Outcrop Model" height="300">
   </a>
  
   <h3 align="center">Digital Outcrop Model</h3>
@@ -49,7 +49,7 @@ For georeferencing the final 3D model, climbing anchors were surveyed by irradia
 
 <div align="center">
   <a href="https://github.com/cdviana/jd-garcia-quarry">
-    <img src="images/pedreiragarcia.jpg" alt="Quarry view" height="150">
+    <img src="images/pedreiragarcia.jpg" alt="Quarry view" height="210">
   </a>
   <h4 align="center">Overview of the Jardim Garcia quarry wall.</h4>
 </div>
